@@ -1,6 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.023809523809523787,0.07142857142857142,de,7
 DWD,DWD,ORG,-0.12499999999999999,0.08333333333333333,de,6
+Biathlon-Weltverband,Biathlon-Weltverband,ORG,0.0,0.6666666666666666,de,3
 Berlin/Potsdam,Berlin/Potsdam,ORG,0.5,0.0,de,2
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.07500000000000001,0.0,de,2
 lby,lby,ORG,0.35,0.0,de,2
@@ -10,4 +11,6 @@ Sonn…,Sonn…,ORG,0.0,0.0,de,1
 Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,-0.7,0.0,de,1
 München,München,ORG,0.7,0.0,de,1
 AUTO,AUTO,ORG,0.7,0.0,de,1
+f…,f…,ORG,0.0,0.0,de,1
+Deutsche Telekom,Deutsche Telekom,ORG,0.7,0.0,de,1
 we…,we…,ORG,0.0,0.0,de,1

@@ -1,2 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Liebe Leserin,Liebe Leserin,PER,1.0,0.0,de,1
+Smillas Gespür für Schnee,Smillas Gespür für Schnee,PER,0.0,0.0,de,1
+Filippa Coster-Waldau,Filippa Coster-Waldau,PER,0.0,0.0,de,1
+Elyas M’Barek,Elyas M’Barek,PER,0.0,0.0,de,1
+Smillas Gespür,Smillas Gespür,PER,0.7,0.0,de,1
