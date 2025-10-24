@@ -5,5 +5,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Polarwirbel',de,Causes,#FFEB3B,#FFF59D,2,0.5
 'Kalte Luftmassen',de,Causes,#FFEB3B,#FFD54F,2,0.5
 'Temperatursturz',de,Hazard,#B71C1C,#EF9A9A,2,0.4454391688863636
-'Kälte Heizen',de,Mitigation,#1B5E20,#4CAF50,1,0.42500018
 'Kältewelle',de,Hazard,#B71C1C,#D32F2F,1,0.425
+'Kälte Heizen',de,Mitigation,#1B5E20,#4CAF50,1,0.363050333
