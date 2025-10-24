@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Polarwirbel',de,Causes,#FFEB3B,#FFF59D,2,0.575150015
-'Schnee',de,Impacts,#1A237E,#03A9F4,3,0.4572287122727272
-'Frost',de,Impacts,#1A237E,#3F51B5,3,0.45722638727272724
+'Frost',de,Impacts,#1A237E,#3F51B5,3,0.4572263872727272
 'Temperatursturz',de,Hazard,#B71C1C,#EF9A9A,2,0.4454391688863636
+'Schnee',de,Impacts,#1A237E,#03A9F4,3,0.4254186172499999
 'Kalte Luftmassen',de,Causes,#FFEB3B,#FFD54F,2,0.42530003
 'Glatteis',de,Impacts,#1A237E,#B3E5FC,1,0.425000345
 'Kältewelle',de,Hazard,#B71C1C,#D32F2F,1,0.425
