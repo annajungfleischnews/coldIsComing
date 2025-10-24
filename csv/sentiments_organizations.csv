@@ -1,4 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.006666666666666687,0.0,de,5
 Spätsommer-Hoffnung,Spätsommer-Hoffnung,ORG,0.0,0.0,de,1
+Sonn…,Sonn…,ORG,0.0,0.0,de,1
 DWD,DWD,ORG,0.0,0.0,de,1
+AUTO,AUTO,ORG,0.7,0.0,de,1
+we…,we…,ORG,0.0,0.0,de,1
