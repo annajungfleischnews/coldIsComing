@@ -1,22 +1,28 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,14
+",MISC,,,de,23
 Münchner,Münchner,MISC,,,de,6
+Ski-Saison,Ski-Saison,MISC,,,de,2
 Loop One Festival,Loop One Festival,MISC,,,de,2
+Freistaat,Freistaat,MISC,-0.7,0.0,de,2
 MagentaTV,MagentaTV,MISC,,,de,2
-Am Wochenende,Am Wochenende,MISC,,,de,1
+TTS Player,TTS Player,MISC,,,de,2
+“,“,MISC,,,de,2
+Frost k…,Frost k…,MISC,,,de,1
 s…,s…,MISC,,,de,1
 De…,De…,MISC,,,de,1
 Hauptrollen,Hauptrollen,MISC,,,de,1
 Serien-Neuverfilmung,Serien-Neuverfilmung,MISC,,,de,1
 Netflix,Netflix,MISC,,,de,1
 Jetzt knallt der Herbst,Jetzt knallt der Herbst,MISC,,,de,1
-Wetter“,Wetter“,MISC,,,de,1
+Am Wochenende,Am Wochenende,MISC,,,de,1
 Zeit,Zeit,MISC,,,de,1
-TTS Player,TTS Player,MISC,,,de,1
 La Nina-Phase,La Nina-Phase,MISC,,,de,1
 Schwacher Polarwirbel,Schwacher Polarwirbel,MISC,,,de,1
 "Wind, Regen","Wind, Regen",MISC,,,de,1
+Wie d…,Wie d…,MISC,,,de,1
+Das lange Wochenende,Das lange Wochenende,MISC,,,de,1
 Be…,Be…,MISC,,,de,1
-“,“,MISC,,,de,1
+Safety-Modus,Safety-Modus,MISC,0.0,0.0,de,1
+Wetter“,Wetter“,MISC,,,de,1
