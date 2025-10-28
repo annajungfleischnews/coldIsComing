@@ -8,3 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte Heizen',de,Mitigation,#1b5e20,#4caf50,1,0.2652066558424999
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2617424580987499
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2610031249999999
+'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.526031249999999
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.5260345999999
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.526454249999999
