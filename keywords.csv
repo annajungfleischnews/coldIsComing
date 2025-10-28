@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.5260345999999
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.5617424580987499
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.526031249999999
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.4619627750744808
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.44748611249999914
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.4474861124999991
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.44712940999991496
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,2,0.4289224615493748
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.3898506532499999
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.378623443553409
@@ -11,4 +12,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte Heizen',de,Mitigation,#1b5e20,#4caf50,1,0.2652066558424999
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2617424580987499
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2610031249999999
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.5617424580987499
