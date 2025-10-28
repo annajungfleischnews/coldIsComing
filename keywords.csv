@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.5617424580987499
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.526031249999999
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.5033811793839374
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.4619627750744808
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.44755926562499987
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.4475592656249998
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.4474861124999991
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.4471294099999149
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,2,0.4289224615493748
