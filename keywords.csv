@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.378623443553409
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.3645841523169686
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.3612499999999999
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.3357107992413124
@@ -9,7 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.3233615694140623
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.3230509987249385
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.3230489414062493
-'Kältebus',de,Mitigation,#1b5e20,#2cd133,1,0.31053572228749987
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.32303004702039767
+'Kältebus',de,Mitigation,#1b5e20,#2cd133,1,0.3105357222874998
 'Kälte Heizen',de,Mitigation,#1b5e20,#4caf50,1,0.2652066558424999
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2617424580987499
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2610031249999999
