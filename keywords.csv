@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.3645841523169686
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.3612499999999999
-'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.3357107992413124
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.3313734152624998
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.330457979066818
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.3296444610641605
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.3233615694140623
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.3230509987249385
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.3230489414062493
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.32303004702039767
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.3230300470203976
 'Kältebus',de,Mitigation,#1b5e20,#2cd133,1,0.3105357222874998
+'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.28640428435511556
 'Kälte Heizen',de,Mitigation,#1b5e20,#4caf50,1,0.2652066558424999
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2617424580987499
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2610031249999999
