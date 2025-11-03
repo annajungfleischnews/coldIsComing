@@ -1,11 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.5
+'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.5
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.4526777827272727
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.3230300470203976
 'Kältebus',de,Mitigation,#1b5e20,#2cd133,1,0.3105357222874998
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.3104965894694233
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.3070624999999999
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.2963626655593317
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2864042843551155
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.28109788190453644
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.2810978819045364
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2749653799212305
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.2747433639161977
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.2745916001953118
@@ -13,6 +16,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.2336287339016599
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2229311343839374
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2218526562499999
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.5
-'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.5
-'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.5
