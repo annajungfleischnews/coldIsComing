@@ -10,6 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.2747433639161977
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.2745916001953118
 'Kälte Heizen',de,Mitigation,#1b5e20,#4caf50,1,0.2652066558424999
-'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2617424580987499
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.2336287339016599
+'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2229311343839374
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2218526562499999
