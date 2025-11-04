@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.4526777827272727
-'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.4265001499999999
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.40458258325
+'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.3640252774999999
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.3230300470203976
 'Kältebus',de,Mitigation,#1b5e20,#2cd133,1,0.3105357222874998
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.3104965894694233
