@@ -17,6 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.2646734294937499
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.2645221610490098
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.2398332896188559
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.2336287339016599
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2229311343839374
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2218526562499999
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.1985844238164109
