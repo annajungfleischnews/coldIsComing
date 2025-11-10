@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.42530003
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.425150015
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.425
-'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.36124999999999996
+'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.3612499999999999
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.3612499999999999
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.3612499999999999
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.3314181287704545
@@ -20,5 +20,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.233402860166015
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2229311343839374
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.2047583861760274
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.1985844238164109
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.1885747578124999
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.16879676024394927
