@@ -1,85 +1,50 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Bayern,,,,,,
-Berlin,,,,,,
-Brandenburg,,,,,,
-Deutschland,,,,,,
-Alpen,,,,,,
-Glatteis,,,,,,
-Olympiapark,,,,,,
-Fichtelberg,,,,,,
-Nebel,,,,,,
-Österreich,,,,,,
-Mecklenburg-Vorpommern,,,,,,
-Freistaat,,,,,,
-Olympiapark Wettkämpfe,,,,,,
-Erzgebirge,,,,,,
-Sturm,,,,,,
-Temperatursturz,,,,,,
-Baden-Württemberg,,,,,,
-Mount Everest,,,,,,
-Bergen,,,,,,
-BGH,,,,,,
-Sachsen,,,,,,
-Kaltfront,,,,,,
-Anmarsch,,,,,,
-Korsika,,,,,,
-Kernelement,,,,,,
-Schnee,,,,,,
-Regen,,,,,,
-Sölden,,,,,,
-Hochgebirge,,,,,,
-Wochenanfang,,,,,,
-Lebensgefahr,,,,,,
-Hochlagen,,,,,,
-Nordrhein-Westfalen,,,,,,
-Millionär,,,,,,
-Sonnenschein,,,,,,
-München,,,,,,
-Offenbach/Poppenhausen,,,,,,
-“,,,,,,
-Hessen,,,,,,
-Schneeflocken,,,,,,
-Streusalz-Alternativen,,,,,,
-Nord-,,,,,,
-Oberwiesenthal,,,,,,
-dpa/sn,,,,,,
-Ostsee,,,,,,
-Erzgebirgskreis,,,,,,
-Harz,,,,,,
-Gewehe,,,,,,
-Schneereg…,,,,,,
-Hitze,,,,,,
-Niedersachsens,,,,,,
-Nordsee,,,,,,
-Gebirgsregionen,,,,,,
-Skirollerskates,,,,,,
-Deutschlands,,,,,,
-Hoch Sieglinde,,,,,,
-Tag am See,,,,,,
-Klimawandels,,,,,,
-Reifenwechsel,,,,,,
-Safety-Modus,,,,,,
-Balkon,,,,,,
-Berglandes,,,,,,
-Dauerregen,,,,,,
-Bayerns Alpen,,,,,,
-Subpolarwirbel,,,,,,
-Nordatlantik,,,,,,
-Kältefront,,,,,,
-Sardinien,,,,,,
-Sonne,,,,,,
-Strand,,,,,,
-Meer,,,,,,
-Sa…,,,,,,
-…,,,,,,
-Eisglätte,,,,,,
-Tag,,,,,,
-Wetter-Mix,,,,,,
-Wetterexperten,,,,,,
-Südosteuropa,,,,,,
-Wochenende,,,,,,
-freundliches Wetter,,,,,,
-Annaberg-Buchholz,,,,,,
-sn,,,,,,
-Biathlon-Weltverband,,,,,,
-Landes,,,,,,
+Herbstwetter,Herbstwetter,NORP,,,de,6
+sind,sind,NORP,,,de,5
+Winter,Winter,DATE,,,de,5
+Kältebusse,Kältebusse,NORP,0.0,0.0,de,4
+Bayern,Bayern,NORP,0.0,0.0,de,4
+13,13,CARDINAL,,,de,2
+Freitag,Freitag,NORP,,,de,2
+Nebel,Nebel,FAC,,,de,2
+15,15,CARDINAL,,,de,2
+16,16,CARDINAL,,,de,2
+ist,ist,NORP,,,de,2
+1,1,CARDINAL,,,de,2
++2136,+2136,NORP,,,de,1
+Diese,Diese,NORP,,,de,1
+1.000,1.000,CARDINAL,,,de,1
++1022 chars,+1022 chars,WORK_OF_ART,,,de,1
+Niedersachsens,Niedersachsens,NORP,,,de,1
++1833 chars,+1833 chars,WORK_OF_ART,,,de,1
++1128 chars,+1128 chars,WORK_OF_ART,,,de,1
+18,18,CARDINAL,,,de,1
+Kandidatin,Kandidatin,NORP,,,de,1
+Kurzes Intermezzo,Kurzes Intermezzo,WORK_OF_ART,,,de,1
+950 Meter,950 Meter,QUANTITY,,,de,1
+Oktober,Oktober,DATE,,,de,1
++2118,+2118,NORP,,,de,1
+Kleiderspenden,Kleiderspenden,NORP,,,de,1
+und kühle Temperaturen,und kühle Temperaturen,MONEY,,,de,1
++2872 chars,+2872 chars,WORK_OF_ART,,,de,1
+Schneeflocken,Schneeflocken,NORP,,,de,1
+120,120,CARDINAL,,,de,1
+One,One,CARDINAL,,,de,1
+1950,1950,DATE,,,de,1
+Alle Wanderer,Alle Wanderer,FAC,,,de,1
+weiter,weiter,NORP,,,de,1
+Nein,Nein,WORK_OF_ART,,,de,1
+Sardinien,Sardinien,NORP,,,de,1
+150,150,CARDINAL,,,de,1
+Pflanzen Frost,Pflanzen Frost,WORK_OF_ART,,,de,1
+12,12,CARDINAL,,,de,1
++856 chars,+856 chars,WORK_OF_ART,,,de,1
+Standortwechsel,Standortwechsel,NORP,,,de,1
+Smillas,Smillas,NORP,,,de,1
+Romans,Romans,NORP,,,de,1
++62,+62,CARDINAL,,,de,1
++3917 chars,+3917 chars,WORK_OF_ART,,,de,1
+Sogar,Sogar,NORP,,,de,1
+"12:24
+2 Min","12:24
+2 Min",TIME,,,de,1

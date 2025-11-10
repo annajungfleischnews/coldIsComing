@@ -1,85 +1,62 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Bayern,Bayern,LOC,-0.30925925925925923,0.05555555555555555,de,27
-Berlin,Berlin,LOC,0.22727272727272727,0.045454545454545456,de,22
-Brandenburg,Brandenburg,LOC,0.2631578947368421,0.0,de,19
-Deutschland,Deutschland,LOC,-0.24,0.0,de,10
-Alpen,Alpen,LOC,0.09999999999999999,0.0,de,7
-Glatteis,Glatteis,LOC,-0.24285714285714285,0.0,de,7
-Olympiapark,Olympiapark,LOC,0.13999999999999999,0.2,de,5
-Fichtelberg,Fichtelberg,LOC,0.0,0.0,de,4
-Nebel,Nebel,LOC,-0.5249999999999999,0.0,de,4
-Österreich,Österreich,LOC,1.0,0.0,de,4
-Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,0.0,0.0,de,3
-Freistaat,Freistaat,LOC,0.4666666666666666,0.0,de,3
-Olympiapark Wettkämpfe,Olympiapark Wettkämpfe,LOC,0.0,1.0,de,3
-Erzgebirge,Erzgebirge,LOC,-0.15555555555555553,0.0,de,3
-Sturm,Sturm,LOC,0.0,0.0,de,3
-Temperatursturz,Temperatursturz,LOC,0.6999999999999998,0.0,de,3
-Baden-Württemberg,Baden-Württemberg,LOC,0.005555555555555573,0.0,de,3
-Mount Everest,Mount Everest,LOC,0.0,0.0,de,3
-Bergen,Bergen,LOC,-0.35,0.0,de,2
-BGH,BGH,LOC,0.0,0.0,de,2
-Sachsen,Sachsen,LOC,0.0,0.0,de,2
-Kaltfront,Kaltfront,LOC,0.0,0.0,de,2
-Anmarsch,Anmarsch,LOC,0.0,0.0,de,2
-Korsika,Korsika,LOC,-0.25,0.25,de,2
-Kernelement,Kernelement,LOC,-1.0,0.0,de,2
-Schnee,Schnee,LOC,-0.7,0.0,de,2
-Regen,Regen,LOC,-0.7,0.0,de,2
-Sölden,Sölden,LOC,1.0,0.0,de,2
-Hochgebirge,Hochgebirge,LOC,-0.35,0.0,de,2
-Wochenanfang,Wochenanfang,LOC,-0.7,0.0,de,2
-Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,2
-Hochlagen,Hochlagen,LOC,0.0,0.0,de,2
-Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.35,0.0,de,2
-Millionär,Millionär,LOC,0.0,0.0,de,2
-Sonnenschein,Sonnenschein,LOC,0.0,0.0,de,2
-München,München,LOC,0.0,0.0,de,2
-Offenbach/Poppenhausen,Offenbach/Poppenhausen,LOC,-0.7,0.0,de,1
-“,“,LOC,0.0,0.0,de,1
-Hessen,Hessen,LOC,-0.7,0.0,de,1
-Schneeflocken,Schneeflocken,LOC,0.0,0.0,de,1
-Streusalz-Alternativen,Streusalz-Alternativen,LOC,0.0,0.0,de,1
-Nord-,Nord-,LOC,0.0,0.0,de,1
-Oberwiesenthal,Oberwiesenthal,LOC,0.0,0.0,de,1
-dpa/sn,dpa/sn,LOC,0.0,0.0,de,1
-Ostsee,Ostsee,LOC,0.0,0.0,de,1
-Erzgebirgskreis,Erzgebirgskreis,LOC,0.0,0.0,de,1
-Harz,Harz,LOC,-1.0,0.0,de,1
-Gewehe,Gewehe,LOC,0.0,0.0,de,1
-Schneereg…,Schneereg…,LOC,0.0,0.0,de,1
-Hitze,Hitze,LOC,0.0,1.0,de,1
-Niedersachsens,Niedersachsens,LOC,0.0,1.0,de,1
-Nordsee,Nordsee,LOC,0.0,0.0,de,1
-Gebirgsregionen,Gebirgsregionen,LOC,0.0,0.0,de,1
-Skirollerskates,Skirollerskates,LOC,0.7,0.0,de,1
-Deutschlands,Deutschlands,LOC,0.0,0.0,de,1
-Hoch Sieglinde,Hoch Sieglinde,LOC,0.0,0.0,de,1
-Tag am See,Tag am See,LOC,0.0,0.0,de,1
-Klimawandels,Klimawandels,LOC,0.0,0.0,de,1
-Reifenwechsel,Reifenwechsel,LOC,1.0,0.0,de,1
-Safety-Modus,Safety-Modus,LOC,1.0,0.0,de,1
-Balkon,Balkon,LOC,0.7,0.0,de,1
-Berglandes,Berglandes,LOC,-1.0,0.0,de,1
-Dauerregen,Dauerregen,LOC,0.0,0.0,de,1
-Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,1
-Subpolarwirbel,Subpolarwirbel,LOC,0.0,0.0,de,1
-Nordatlantik,Nordatlantik,LOC,0.0,0.0,de,1
-Kältefront,Kältefront,LOC,-0.5,0.5,de,1
-Sardinien,Sardinien,LOC,0.0,0.0,de,1
-Sonne,Sonne,LOC,0.0,0.0,de,1
-Strand,Strand,LOC,0.0,0.0,de,1
-Meer,Meer,LOC,0.0,0.0,de,1
-Sa…,Sa…,LOC,0.0,0.0,de,1
-…,…,LOC,0.0,0.0,de,1
-Eisglätte,Eisglätte,LOC,0.5,0.0,de,1
-Tag,Tag,LOC,-1.0,0.0,de,1
-Wetter-Mix,Wetter-Mix,LOC,0.0,0.0,de,1
-Wetterexperten,Wetterexperten,LOC,0.0,0.0,de,1
-Südosteuropa,Südosteuropa,LOC,0.0,0.0,de,1
-Wochenende,Wochenende,LOC,0.0,0.0,de,1
-freundliches Wetter,freundliches Wetter,LOC,1.0,0.0,de,1
-Annaberg-Buchholz,Annaberg-Buchholz,LOC,-0.2333333333333333,0.0,de,1
-sn,sn,LOC,-0.2333333333333333,0.0,de,1
-Biathlon-Weltverband,Biathlon-Weltverband,LOC,0.0,1.0,de,1
-Landes,Landes,LOC,-0.7,0.0,de,1
+Berlin,Berlin,GPE,0.04466666666666666,0.07200000000000001,de,25
+Bayern,Bayern,GPE,0.05555555555555555,0.08333333333333333,de,12
+Nach,Nach,GPE,0.0,0.0,de,9
+den Alpen,den Alpen,LOC,0.0,0.0,de,7
+Deutschland,Deutschland,GPE,0.0,0.0,de,5
+Temperatursturz,Temperatursturz,GPE,0.0,0.0,de,5
+Berlin/Potsdam,Berlin/Potsdam,GPE,0.08333333333333333,0.125,de,4
+m Einsatz,m Einsatz,GPE,0.0,0.0,de,4
+Form von warmen Getränken,Form von warmen Getränken,GPE,0.0,0.0,de,4
+Brandenburg,Brandenburg,GPE,0.0,0.0,de,3
+Österreich,Österreich,GPE,0.0,0.0,de,3
+Mecklenburg,Mecklenburg,GPE,0.0,0.0,de,3
+Kältebusse,Kältebusse,GPE,0.0,0.0,de,3
+bleibt es,bleibt es,GPE,-0.06666666666666667,0.06666666666666667,de,3
+Sturm,Sturm,GPE,0.0,0.0,de,3
+Schnee,Schnee,GPE,0.0,0.0,de,3
+Ukraine,Ukraine,GPE,0.0,0.0,de,3
+Baden-Württemberg,Baden-Württemberg,GPE,0.0,0.0,de,2
+Doch,Doch,GPE,0.0,0.0,de,2
+München,München,GPE,0.0,0.0,de,2
+den Bergen,den Bergen,GPE,0.0,0.0,de,2
+Sachsen,Sachsen,GPE,0.0,0.0,de,2
+Sicherheit,Sicherheit,GPE,0.0,0.0,de,2
+Smillas Gespür für,Smillas Gespür für,GPE,0.0,0.0,de,2
+Hochlagen,Hochlagen,GPE,0.0,0.0,de,2
+Lebensgefahr,Lebensgefahr,GPE,0.0,0.0,de,2
+den nächsten Tagen,den nächsten Tagen,GPE,0.0,0.0,de,2
+Hunderte Wanderer,Hunderte Wanderer,GPE,0.0,0.0,de,2
+Nordrhein-Westfalen,Nordrhein-Westfalen,GPE,0.0,0.0,de,2
+Mit,Mit,GPE,0.0,0.0,de,1
+den Hochlagen,den Hochlagen,GPE,0.0,0.0,de,1
+Folge,Folge,GPE,0.0,0.0,de,1
+Hessen,Hessen,GPE,0.0,0.0,de,1
+einem weißen Winterkleid,einem weißen Winterkleid,GPE,0.0,0.0,de,1
+Regen,Regen,GPE,0.0,0.0,de,1
+Herausforderungen des Klimawandels,Herausforderungen des Klimawandels,GPE,0.0,0.0,de,1
+Schneereg,Schneereg,GPE,0.0,0.0,de,1
+Bei extremem,Bei extremem,GPE,0.0,0.0,de,1
+Glatteis,Glatteis,GPE,0.0,0.0,de,1
+Kälte,Kälte,GPE,0.0,0.0,de,1
+wehe,wehe,GPE,0.0,0.0,de,1
+Späti,Späti,GPE,0.0,0.0,de,1
+Bord,Bord,LOC,0.0,0.0,de,1
+Chinas,Chinas,GPE,0.0,0.0,de,1
+diesem Jahr,diesem Jahr,GPE,0.0,0.0,de,1
+Prozent zurück,Prozent zurück,GPE,0.0,0.0,de,1
+Kopiere,Kopiere,GPE,0.0,0.0,de,1
+Bayerns Alpen erwartet,Bayerns Alpen erwartet,GPE,0.0,0.0,de,1
+Mount Everest,Mount Everest,LOC,0.0,0.0,de,1
+China,China,GPE,0.0,0.0,de,1
+Tibet,Tibet,GPE,0.0,0.0,de,1
+Nachrichten,Nachrichten,GPE,0.0,0.0,de,1
+kann es,kann es,GPE,0.0,0.0,de,1
+Gasversorgung,Gasversorgung,GPE,0.0,0.0,de,1
+den Herbst,den Herbst,LOC,0.0,0.0,de,1
+welche,welche,GPE,0.0,0.0,de,1
+es für ihn,es für ihn,GPE,0.0,0.0,de,1
+einzelnen,einzelnen,GPE,0.0,0.0,de,1
+Korsika,Korsika,GPE,0.0,0.0,de,1
+kalt,kalt,GPE,0.0,0.0,de,1
+Klimaerhitzung,Klimaerhitzung,GPE,0.0,0.0,de,1

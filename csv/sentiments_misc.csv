@@ -1,55 +1,62 @@
 ,phrase,label,sentiment,subjectivity,language,count
-"Link
-","Link
-",MISC,,,de,28
-“,“,MISC,0.0,1.0,de,11
-Wetter“,Wetter“,MISC,,,de,7
-Münchner,Münchner,MISC,,,de,6
-Freistaat,Freistaat,MISC,-0.2333333333333333,0.0,de,2
-Loop One Festival,Loop One Festival,MISC,,,de,2
-Sturm und Schnee,Sturm und Schnee,MISC,,,de,2
-Corona-Zeit,Corona-Zeit,MISC,,,de,2
-minus 1 Grad,minus 1 Grad,MISC,,,de,2
-Ski-Saison,Ski-Saison,MISC,,,de,2
-MagentaTV,MagentaTV,MISC,,,de,2
-TTS Player,TTS Player,MISC,,,de,2
-s…,s…,MISC,,,de,1
-Serien-Neuverfilmung,Serien-Neuverfilmung,MISC,,,de,1
-Hauptrollen,Hauptrollen,MISC,,,de,1
-De…,De…,MISC,,,de,1
-Frost k…,Frost k…,MISC,,,de,1
-Am Wochenende,Am Wochenende,MISC,,,de,1
-Netflix,Netflix,MISC,,,de,1
-Jetzt knallt der Herbst,Jetzt knallt der Herbst,MISC,,,de,1
-Schnee“,Schnee“,MISC,,,de,1
-NRW-Wetter,NRW-Wetter,MISC,,,de,1
-Hause aus bald,Hause aus bald,MISC,,,de,1
-Schulen“,Schulen“,MISC,,,de,1
-Reform“,Reform“,MISC,,,de,1
-Wochenstar…,Wochenstar…,MISC,,,de,1
-Erster Schnee,Erster Schnee,MISC,,,de,1
-Kurzes Intermezzo,Kurzes Intermezzo,MISC,,,de,1
-nächsten Tagen,nächsten Tagen,MISC,,,de,1
-Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1
-Wetter-Mix“,Wetter-Mix“,MISC,,,de,1
-Zeit,Zeit,MISC,,,de,1
-Temperaturen rauschen,Temperaturen rauschen,MISC,,,de,1
-Kühles Wetter,Kühles Wetter,MISC,,,de,1
-Safety-Modus,Safety-Modus,MISC,0.0,0.0,de,1
-Gra…,Gra…,MISC,,,de,1
-Klimawandel“,Klimawandel“,MISC,,,de,1
-Schweizer,Schweizer,MISC,,,de,1
-Gletsc…,Gletsc…,MISC,,,de,1
-Wettervorhersage“,Wettervorhersage“,MISC,,,de,1
-Be…,Be…,MISC,,,de,1
-Frost am Morgen,Frost am Morgen,MISC,,,de,1
-Wetterbericht“,Wetterbericht“,MISC,,,de,1
-Das lange Wochenende,Das lange Wochenende,MISC,,,de,1
-Wie d…,Wie d…,MISC,,,de,1
-"Wind, Regen","Wind, Regen",MISC,,,de,1
-Kippele­mente,Kippele­mente,MISC,,,de,1
-Su…,Su…,MISC,,,de,1
-Schwacher Polarwirbel,Schwacher Polarwirbel,MISC,,,de,1
-La Nina-Phase,La Nina-Phase,MISC,,,de,1
-Boden-Frost,Boden-Frost,MISC,,,de,1
-Der erste Schnee,Der erste Schnee,MISC,,,de,1
+Berlin,,,,,,
+Bayern,,,,,,
+Nach,,,,,,
+den Alpen,,,,,,
+Deutschland,,,,,,
+Temperatursturz,,,,,,
+Berlin/Potsdam,,,,,,
+m Einsatz,,,,,,
+Form von warmen Getränken,,,,,,
+Brandenburg,,,,,,
+Österreich,,,,,,
+Mecklenburg,,,,,,
+Kältebusse,,,,,,
+bleibt es,,,,,,
+Sturm,,,,,,
+Schnee,,,,,,
+Ukraine,,,,,,
+Baden-Württemberg,,,,,,
+Doch,,,,,,
+München,,,,,,
+den Bergen,,,,,,
+Sachsen,,,,,,
+Sicherheit,,,,,,
+Smillas Gespür für,,,,,,
+Hochlagen,,,,,,
+Lebensgefahr,,,,,,
+den nächsten Tagen,,,,,,
+Hunderte Wanderer,,,,,,
+Nordrhein-Westfalen,,,,,,
+Mit,,,,,,
+den Hochlagen,,,,,,
+Folge,,,,,,
+Hessen,,,,,,
+einem weißen Winterkleid,,,,,,
+Regen,,,,,,
+Herausforderungen des Klimawandels,,,,,,
+Schneereg,,,,,,
+Bei extremem,,,,,,
+Glatteis,,,,,,
+Kälte,,,,,,
+wehe,,,,,,
+Späti,,,,,,
+Bord,,,,,,
+Chinas,,,,,,
+diesem Jahr,,,,,,
+Prozent zurück,,,,,,
+Kopiere,,,,,,
+Bayerns Alpen erwartet,,,,,,
+Mount Everest,,,,,,
+China,,,,,,
+Tibet,,,,,,
+Nachrichten,,,,,,
+kann es,,,,,,
+Gasversorgung,,,,,,
+den Herbst,,,,,,
+welche,,,,,,
+es für ihn,,,,,,
+einzelnen,,,,,,
+Korsika,,,,,,
+kalt,,,,,,
+Klimaerhitzung,,,,,,
