@@ -1,18 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.3768050555
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.3612499999999999
-'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.3070624999999999
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.3070624999999999
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.3070624999999999
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.2963626655593317
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.293143499648125
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.28670535764191646
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.2867053576419164
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2749653799212305
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.2747433639161977
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.2742311665493749
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.2665800311027186
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.2646734294937499
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.2645221610490098
+'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.2610031249999999
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.2610031249999999
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2587436717018482
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.25378674869951
