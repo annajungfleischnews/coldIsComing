@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2587436717018482
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.25378674869951
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.2356758824661249
-'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.233402860166015
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2229311343839374
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.2047583861760274
+'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.19839243114111274
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.1885747578124999
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.1687967602439492
