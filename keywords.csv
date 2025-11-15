@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.3205843271749999
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.3070624999999999
-'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.293143499648125
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.2867053576419164
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.2764042752708865
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2749653799212305
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.2610031249999999
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2587436717018482
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.25378674869951
+'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.24992204970090626
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.2356758824661249
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2229311343839374
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.2047583861760274
