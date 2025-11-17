@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.2867053576419164
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.2747433639161977
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.2730967380987499
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.2665800311027186
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.2646734294937499
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.2499220497009062
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.2356758824661249
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.2352441589802535
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.23368187432876802
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.2332465065669686
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2229311343839374
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.2218526562499999
