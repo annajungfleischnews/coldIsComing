@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.2867053576419164
-'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.2730967380987499
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.2665800311027186
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.2646734294937499
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.2610031249999999
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.2356758824661249
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.2352441589802535
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.233681874328768
+'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.23273228738393742
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2283886041406249
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2229311343839374
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.2218526562499999
