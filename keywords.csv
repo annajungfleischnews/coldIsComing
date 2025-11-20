@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.2867053576419164
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.2646734294937499
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.2610031249999999
-'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2587436717018482
+'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2584004677647528
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.25378674869951
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.2525939118916583
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.2499220497009062
