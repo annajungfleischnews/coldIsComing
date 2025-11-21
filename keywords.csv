@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2906686668339981
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.2867053576419164
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.28955979990471986
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.2646734294937499
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.2610031249999999
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.25378674869951
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2283886041406249
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.2218526562499999
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.2218526562499999
-'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.22129056260003988
+'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2212905626000398
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.2047583861760274
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1984095455819233
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.1983924311411127
