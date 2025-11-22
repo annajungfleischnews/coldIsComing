@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.2218526562499999
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2212905626000398
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.2047583861760274
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.1992296531794528
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1984095455819233
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.1897914942263468
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.1885747578124999
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.1885747578124999
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.1699452652025349
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.1686335664699458
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.1434772462073568
