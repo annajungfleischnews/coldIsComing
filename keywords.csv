@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.3030911833150336
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.2920688713945835
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2854981568762472
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.2758445736584327
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.2499220497009062
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.2374242508771403
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.2356758824661249
-'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.2352441589802535
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.2327322873839374
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.2285432214373108
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2283886041406249
