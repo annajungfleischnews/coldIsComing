@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2573700093325865
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.2374242508771403
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2299643351158158
-'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.2287063423839285
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2218430535195311
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.2212905626000398
+'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.2147362103120535
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.2127337722457702
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.2044620082217141
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.2031747850962061
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1982724892763467
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.1885747578124999
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.1699452652025349
-'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.16292848347534913
+'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.1629284834753491
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.1616228000923948
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.1602885441406249
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.1362452625195311
