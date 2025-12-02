@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,2,0.1994497437041687
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1984095455819233
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1982724892763467
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.1699452652025349
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.1629284834753491
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.1616228000923948
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.1602885441406249
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.1602885441406249
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.14490352042215465
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.1362452625195311
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.1362452625195311
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.1219556592762532
