@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.3093199600491213
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.2953072985450513
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.2810737465818539
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.26076465793269854
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2607646579326985
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.2374242508771403
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2299643351158158
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2218430535195311
