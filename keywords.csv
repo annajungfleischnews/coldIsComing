@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.3169656501326622
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2607646579326985
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2601183060609755
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.2257748659373065
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2218430535195311
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.2114836720928431
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,2,0.1994497437041687
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1984095455819233
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1982724892763467
-'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.18112373640890467
+'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1811237364089046
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.1629284834753491
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.1616228000923948
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.1602885441406249
