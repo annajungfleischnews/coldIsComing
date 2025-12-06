@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.3169656501326622
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.2948281680673083
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2601183060609755
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.2257748659373065
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.2218430535195311
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.1999717034575457
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,2,0.1994497437041687
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1982724892763467
-'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.18880533036982572
+'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.1888053303698257
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1811237364089046
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1689481437446348
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.1629284834753491
