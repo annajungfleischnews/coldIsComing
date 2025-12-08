@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.2637381310390302
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2601183060609755
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.23322072047408476
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.2032871872587338
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.2031747850962061
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.2028615980509597
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.1987668654916014
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1982724892763467
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.1968592510467105
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.19651213275768775
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.1965121327576877
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.1888053303698257
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.1841795600785355
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1811237364089046
