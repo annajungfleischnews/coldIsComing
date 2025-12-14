@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2631007101518292
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2621039504472366
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.2328912282697988
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.2067344638512899
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2045621103832305
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,2,0.1708829121485434
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1695817208848946
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1689481437446348
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.16612284891742932
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.1661228489174293
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.1602885441406249
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.1386392259540467
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.1362452625195311
