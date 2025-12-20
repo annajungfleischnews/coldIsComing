@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2605365458117648
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.241379651415138
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,2,0.2045194691699237
-'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2027414528389858
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.1879699299104775
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.1818472704507387
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.1794432671384494
+'Frost',de,Impacts,#1a237e,#3f51b5,3,0.17728737491313792
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.1772208635176119
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.1768962740155456
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.1755488523317752
