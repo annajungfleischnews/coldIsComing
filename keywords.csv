@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.1452507453262619
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.1386392259540467
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.1158084731416014
-'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.1158084731416014
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.1074680710050067
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.1037121040083554
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0996973281703612
+'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0984372021703612
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0984372021703612
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0882629788270929
