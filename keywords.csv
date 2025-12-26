@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2599244107581819
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.2443636170657953
-'Polarwirbel',de,Causes,#ffeb3b,#fff59d,2,0.2020150304752698
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.187777002067682
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.186759473874742
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.1772208635176119
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.1768784172694109
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.1755488523317752
+'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.1717128509039793
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1695817208848946
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1689481437446348
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.1677051780649461
