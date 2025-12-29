@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.236209224505926
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2359358991444546
+'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.20227799083003709
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.1772208635176119
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.1768784172694109
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.1755488523317752
@@ -21,4 +21,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0996973281703612
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0984372021703612
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0984372021703612
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.07517354700302897
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0751735470030289
