@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.202277990830037
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.2020456642727864
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.1768784172694109
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.1755488523317752
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.17323896463186844
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1695817208848946
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1689481437446348
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.1677051780649461
