@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.1467059982683824
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.1465553540900525
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1440559671829396
-'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.13908676533933634
+'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1390867653393363
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,2,0.1383134935273226
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.1158084731416014
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.1074680710050067
@@ -21,4 +21,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0984372021703612
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0984372021703612
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0852918296390289
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0751735470030289
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.06404752995257457
