@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.2794430160155599
+'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.291570097704135
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,3,0.2681555614110243
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,2,0.1735045920324343
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,2,0.1658414161757184
@@ -19,6 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.085492803944807
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.083671621844807
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0749319951460367
-'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.07112087856808595
+'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0711208785680859
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0640475299525745
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0619008746641983
