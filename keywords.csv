@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1228976171054986
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.1158084731416014
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.1074680710050067
-'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.085492803944807
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.083671621844807
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0749319951460367
+'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.07326894335308595
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0711208785680859
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0640475299525745
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0619008746641983
