@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1390867653393363
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1247987938253881
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.1240949886947698
-'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.11922065101390883
+'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.1192206510139088
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1148835417145149
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0987775731744322
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.084871741844807
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.083671621844807
-'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.079187651087678
+'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.07964431380914168
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.062878661850123
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0452784374448832
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0436771095506256
