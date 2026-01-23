@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.1240949886947698
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.1192206510139088
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1148835417145149
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.08606114719826737
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0860611471982673
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.083671621844807
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0796443138091416
-'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0733411005680859
+'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.06354005548287302
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.062878661850123
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0452784374448832
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0436771095506256
