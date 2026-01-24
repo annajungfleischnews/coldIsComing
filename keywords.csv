@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,3,0.2713090968274601
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.2215257241554016
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.1644268006270715
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,3,0.1511541981345878
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,3,0.15797784295985418
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.1487532699370881
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,2,0.1482289782275691
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.1467059982683824
