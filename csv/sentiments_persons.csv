@@ -1,68 +1,75 @@
 ,phrase,label,sentiment,subjectivity,language,count
+"Sturmtief ""Elli","Sturmtief ""Elli",PER,-0.12727272727272726,0.0,de,5.5
 Sturmtief „Elli,Sturmtief „Elli,PER,0.18181818181818182,0.0,de,5.5
 Sturmtief Elli,Sturmtief Elli,PER,-0.46666666666666656,0.0,de,4.5
 Teile Deutschlands,Teile Deutschlands,PER,-1.0810810810810811,0.0,de,3.6999999999999997
 Vorsicht Glatteis,Vorsicht Glatteis,PER,0.0,0.0,de,3.6999999999999997
-Hoffenheims Testspiel,Hoffenheims Testspiel,PER,0.0,0.0,de,2.8
-Konstantin Wecker,Konstantin Wecker,PER,0.7499999999999999,0.0,de,2.8
-"Sturmtief ""Elli","Sturmtief ""Elli",PER,-0.25,0.0,de,2.8
-Markus Söder,Markus Söder,PER,-0.5,0.0,de,2.8
 Friedrich Merz,Friedrich Merz,PER,-0.5,0.0,de,2.8
-Sturmtief Joshua,Sturmtief Joshua,PER,0.0,0.0,de,2.0
+Konstantin Wecker,Konstantin Wecker,PER,0.7499999999999999,0.0,de,2.8
+Markus Söder,Markus Söder,PER,-0.5,0.0,de,2.8
+Hoffenheims Testspiel,Hoffenheims Testspiel,PER,0.0,0.0,de,2.8
 Herbststurm Joshua,Herbststurm Joshua,PER,-0.35,0.0,de,2.0
-Katharina Luca,Katharina Luca,PER,1.0526315789473684,0.0,de,1.9
-Montagfrüh Schneeglätte,Montagfrüh Schneeglätte,PER,0.0,0.0,de,1.9
-Glatteis Warnstufe,Glatteis Warnstufe,PER,0.0,0.0,de,1.9
-"Durchzug von Sturmtief ""Elli","Durchzug von Sturmtief ""Elli",PER,0.6052631578947368,0.0,de,1.9
-Alexander Hildebrand,Alexander Hildebrand,PER,-0.8157894736842105,0.0,de,1.9
+Sturmtief Joshua,Sturmtief Joshua,PER,0.0,0.0,de,2.0
 Heizölpreise heute,Heizölpreise heute,PER,0.0,0.0,de,1.9
-Barbara Breuer,Barbara Breuer,PER,-1.0526315789473684,0.0,de,1.9
-schneeglatter Fahrbahn,schneeglatter Fahrbahn,PER,0.0,0.0,de,1.9
+Montagfrüh Schneeglätte,Montagfrüh Schneeglätte,PER,0.0,0.0,de,1.9
+Alexander Hildebrand,Alexander Hildebrand,PER,-0.8157894736842105,0.0,de,1.9
+Katharina Luca,Katharina Luca,PER,1.0526315789473684,0.0,de,1.9
 Vorsicht gebo,Vorsicht gebo,PER,0.0,0.0,de,1.9
+schneeglatter Fahrbahn,schneeglatter Fahrbahn,PER,0.0,0.0,de,1.9
+Barbara Breuer,Barbara Breuer,PER,-1.0526315789473684,0.0,de,1.9
+Björn Alexander,Björn Alexander,PER,0.0,0.0,de,1.9
+Gefahr von Glatteis,Gefahr von Glatteis,PER,0.0,0.0,de,1.9
+"Durchzug von Sturmtief ""Elli","Durchzug von Sturmtief ""Elli",PER,0.6052631578947368,0.0,de,1.9
+Daniel Schneider,Daniel Schneider,PER,0.0,0.0,de,1.9
+"Sturm ""Elli","Sturm ""Elli",PER,0.0,0.0,de,1.9
+Glatteis Warnstufe,Glatteis Warnstufe,PER,0.0,0.0,de,1.9
 Schnee schippt,Schnee schippt,PER,0.0,0.0,de,1.2000000000000002
-Kirill Serebrennikovs,Kirill Serebrennikovs,PER,1.8181818181818181,0.0,de,1.1
 Nina Chuba,Nina Chuba,PER,-0.9090909090909091,0.0,de,1.1
 Tommaso Piccioli,Tommaso Piccioli,PER,0.9090909090909091,0.0,de,1.1
-Jan Eifert,Jan Eifert,PER,0.0,0.0,de,1.0
-War Glätte,War Glätte,PER,0.0,0.0,de,1.0
-Paul Heger,Paul Heger,PER,0.0,0.0,de,1.0
+Kirill Serebrennikovs,Kirill Serebrennikovs,PER,1.8181818181818181,0.0,de,1.1
+Silvester Schnee,Silvester Schnee,PER,-1.0,0.0,de,1.0
 Evelyn Palla,Evelyn Palla,PER,0.0,0.0,de,1.0
 Kältebus von Obdachlosenhilfe,Kältebus von Obdachlosenhilfe,PER,0.0,0.0,de,1.0
-Frostiges Wetter,Frostiges Wetter,PER,0.0,0.0,de,1.0
-Cold Snap,Cold Snap,PER,0.0,0.0,de,1.0
-Arc Raiders,Arc Raiders,PER,0.0,0.0,de,1.0
-Silvester Schnee,Silvester Schnee,PER,-1.0,0.0,de,1.0
-Günther Jauch,Günther Jauch,PER,0.0,0.0,de,1.0
+Skrupellose Brandstiftung,Skrupellose Brandstiftung,PER,-1.0,0.0,de,1.0
 Martin Kulmer,Martin Kulmer,PER,0.0,0.0,de,1.0
 Peter Hartm,Peter Hartm,PER,0.0,0.0,de,1.0
+Geesthacht meterhohe Eisberge,Geesthacht meterhohe Eisberge,PER,0.0,0.0,de,1.0
+rutschiges Eis,rutschiges Eis,PER,0.0,0.0,de,1.0
+Margrit Bartelt,Margrit Bartelt,PER,0.0,0.0,de,1.0
+Liveblog zu Frost und Eis,Liveblog zu Frost und Eis,PER,-0.7,0.0,de,1.0
 Alarmstufe Rot,Alarmstufe Rot,PER,0.7,0.0,de,1.0
-Chris Emil Janßen,Chris Emil Janßen,PER,1.0,0.0,de,1.0
+Frostiges Wetter,Frostiges Wetter,PER,0.0,0.0,de,1.0
+Frostiges Winterwetter,Frostiges Winterwetter,PER,-0.7,0.0,de,1.0
 Sturmtief «Elli,Sturmtief «Elli,PER,0.0,0.0,de,1.0
+Chris Emil Janßen,Chris Emil Janßen,PER,1.0,0.0,de,1.0
+Quiz des Tages,Quiz des Tages,PER,-1.0,0.0,de,1.0
 Konrad Westph,Konrad Westph,PER,-0.09999999999999998,0.0,de,1.0
 Sturmtief „Elli“ ,Sturmtief „Elli“ ,PER,0.0,0.0,de,1.0
-Berthold Troitsch,Berthold Troitsch,PER,-1.0,0.0,de,1.0
-Quiz des Tages,Quiz des Tages,PER,-1.0,0.0,de,1.0
-Sturmtief „Elli“,Sturmtief „Elli“,PER,0.5,0.0,de,1.0
-Dieter Puhl,Dieter Puhl,PER,-0.5666666666666667,0.3333333333333333,de,1.0
-Vorsicht + Streusalz,Vorsicht + Streusalz,PER,0.0,0.0,de,1.0
-Verkehrsminister mahnt,Verkehrsminister mahnt,PER,0.0,0.0,de,1.0
-Philip Raillon,Philip Raillon,PER,0.0,0.0,de,1.0
 Alena Lagmöller,Alena Lagmöller,PER,0.0,0.0,de,1.0
-Schnee schmilzt,Schnee schmilzt,PER,0.0,0.0,de,1.0
-rutschiges Eis,rutschiges Eis,PER,0.0,0.0,de,1.0
-Harry Scherz,Harry Scherz,PER,1.0,0.0,de,1.0
-Georg Friedrichs,Georg Friedrichs,PER,0.0,0.0,de,1.0
-Ibiza Starkregen,Ibiza Starkregen,PER,0.0,0.0,de,1.0
-Entwickler Frogwars,Entwickler Frogwars,PER,0.0,0.0,de,1.0
+Philip Raillon,Philip Raillon,PER,0.0,0.0,de,1.0
+Verkehrsminister mahnt,Verkehrsminister mahnt,PER,0.0,0.0,de,1.0
+Vorsicht + Streusalz,Vorsicht + Streusalz,PER,0.0,0.0,de,1.0
+Judith Gerlach,Judith Gerlach,PER,1.0,0.0,de,1.0
+Andreas Franke,Andreas Franke,PER,0.0,0.0,de,1.0
+War Glätte,War Glätte,PER,0.0,0.0,de,1.0
+Dieter Puhl,Dieter Puhl,PER,-0.5666666666666667,0.3333333333333333,de,1.0
+Sturmtief „Elli“,Sturmtief „Elli“,PER,0.5,0.0,de,1.0
+Berthold Troitsch,Berthold Troitsch,PER,-1.0,0.0,de,1.0
+Jan Eifert,Jan Eifert,PER,0.0,0.0,de,1.0
+Günther Jauch,Günther Jauch,PER,0.0,0.0,de,1.0
+Paul Heger,Paul Heger,PER,0.0,0.0,de,1.0
+Josef Mengele,Josef Mengele,PER,0.0,0.0,de,1.0
+Anders schaut,Anders schaut,PER,-1.0,0.0,de,1.0
+Julia Willie Hamburg,Julia Willie Hamburg,PER,0.0,1.0,de,1.0
 Grippe-Experte Florian Krammer,Grippe-Experte Florian Krammer,PER,0.0,0.0,de,1.0
 Österreichs Skigebiete,Österreichs Skigebiete,PER,1.0,0.0,de,1.0
 Goslar Wehe,Goslar Wehe,PER,0.0,0.0,de,1.0
 Tief „Joshua,Tief „Joshua,PER,0.0,0.0,de,1.0
 Hause schön,Hause schön,PER,0.85,0.0,de,1.0
 Sturm Joshua,Sturm Joshua,PER,0.0,0.0,de,1.0
-Josef Mengele,Josef Mengele,PER,0.0,0.0,de,1.0
+Entwickler Frogwars,Entwickler Frogwars,PER,0.0,0.0,de,1.0
+Walter Salles,Walter Salles,PER,0.0,0.0,de,1.0
 Siegfried Marth,Siegfried Marth,PER,1.0,0.0,de,1.0
-Anders schaut,Anders schaut,PER,-1.0,0.0,de,1.0
 Smillas Gespür,Smillas Gespür,PER,0.7,0.0,de,1.0
 Elyas M’Barek,Elyas M’Barek,PER,0.0,0.0,de,1.0
 Filippa Coster-Waldau,Filippa Coster-Waldau,PER,0.0,0.0,de,1.0
@@ -70,24 +77,26 @@ Smillas Gespür für Schnee,Smillas Gespür für Schnee,PER,0.0,0.0,de,1.0
 Ingo Nathusius,Ingo Nathusius,PER,0.0,0.0,de,1.0
 Liebe Leserin,Liebe Leserin,PER,1.0,0.0,de,1.0
 Benjamin von Brackel,Benjamin von Brackel,PER,-0.7,0.0,de,1.0
-Julia Willie Hamburg,Julia Willie Hamburg,PER,0.0,1.0,de,1.0
 Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1.0
+herrlich ehrlich,herrlich ehrlich,PER,1.0,0.0,de,1.0
+Cold Snap,Cold Snap,PER,0.0,0.0,de,1.0
+Gerald Gröger,Gerald Gröger,PER,1.0,0.0,de,1.0
+Arc Raiders,Arc Raiders,PER,0.0,0.0,de,1.0
+Harry Scherz,Harry Scherz,PER,1.0,0.0,de,1.0
+Schnee schmilzt,Schnee schmilzt,PER,0.0,0.0,de,1.0
+Ibiza Starkregen,Ibiza Starkregen,PER,0.0,0.0,de,1.0
 Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,1.0
-Joker da Costa,Joker da Costa,PER,0.0,0.0,de,1.0
-Till Backhaus,Till Backhaus,PER,0.7,0.0,de,1.0
+Toralf Staud,Toralf Staud,PER,-0.7,0.0,de,1.0
 Mecklenburg-Vorpommerns Umweltminister,Mecklenburg-Vorpommerns Umweltminister,PER,0.7,0.0,de,1.0
 Schwerin Regen,Schwerin Regen,PER,-1.0,0.0,de,1.0
-Gerald Gröger,Gerald Gröger,PER,1.0,0.0,de,1.0
-Toralf Staud,Toralf Staud,PER,-0.7,0.0,de,1.0
+Georg Friedrichs,Georg Friedrichs,PER,0.0,0.0,de,1.0
+Fabian Tobias,Fabian Tobias,PER,0.0,0.0,de,1.0
 Regen k,Regen k,PER,-0.7,0.0,de,1.0
 Reinhard Klier,Reinhard Klier,PER,1.0,0.0,de,1.0
+Joker da Costa,Joker da Costa,PER,0.0,0.0,de,1.0
 Sachsen-Anhalts Straßenmeistereien,Sachsen-Anhalts Straßenmeistereien,PER,1.0,0.0,de,1.0
-Björn Alexander,Björn Alexander,PER,0.0,0.0,de,1.0
 Vereiste Autoscheiben,Vereiste Autoscheiben,PER,-0.43333333333333335,0.0,de,1.0
 Ralph Dümm,Ralph Dümm,PER,0.0,0.0,de,1.0
 Frank Thelen,Frank Thelen,PER,0.0,0.0,de,1.0
 Carsten Maschmeyer,Carsten Maschmeyer,PER,0.0,0.0,de,1.0
-Fabian Tobias,Fabian Tobias,PER,0.0,0.0,de,1.0
-herrlich ehrlich,herrlich ehrlich,PER,1.0,0.0,de,1.0
-Walter Salles,Walter Salles,PER,0.0,0.0,de,1.0
-Liveblog zu Frost und Eis,Liveblog zu Frost und Eis,PER,-0.7,0.0,de,1.0
+Till Backhaus,Till Backhaus,PER,0.7,0.0,de,1.0
