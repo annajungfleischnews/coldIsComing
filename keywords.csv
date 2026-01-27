@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.3090035478100629
+'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.27580187382037163
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,3,0.2713090968274601
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2565989428512467
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.20552419780481862
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.2055241978048186
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,3,0.1579778429598541
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.1488043646239198
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.1487532699370881
