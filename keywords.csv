@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,3,0.1420101965628271
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1390867653393363
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,3,0.1378214088112218
-'Autounfall Glätte',de,Impacts,#1a237e,#081e99,2,0.1377948264934337
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.127100338528125
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,3,0.1261231072121647
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.1247987938253881
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.1240949886947698
+'Autounfall Glätte',de,Impacts,#1a237e,#081e99,2,0.11922582751941863
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.1192206510139088
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.1187666337438318
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1148835417145149
