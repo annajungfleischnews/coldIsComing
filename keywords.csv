@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.3370552293587333
+'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.31191631040946877
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2443656641291867
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,2,0.195985300032873
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.1852416415611414
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,3,0.1464660014149985
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,3,0.1378214088112218
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,3,0.1353732193348217
-'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,2,0.13497670493600888
+'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,2,0.1349767049360088
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.127100338528125
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,2,0.1192258275194186
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.1187666337438318
