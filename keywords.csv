@@ -6,19 +6,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.1417494070237507
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,3,0.1378214088112218
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,3,0.1353732193348217
-'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,2,0.1349767049360088
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.127100338528125
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.1262437961541705
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1260654504576704
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,2,0.1192258275194186
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1169262504573376
+'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.11473069419560748
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.1058219590223363
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.103651923682257
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0940731179580163
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0609362842287532
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0526554398363756
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0498435098800545
-'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.02789959630579051
+'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0278995963057905
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0174886882224725
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0130266116296263
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0119015985136384
