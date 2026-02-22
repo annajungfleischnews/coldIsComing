@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.3119163104094687
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2017521470850976
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.16150064263021693
-'Kältewelle',de,Hazard,#b71c1c,#d32f2f,3,0.1547032629672624
+'Kältewelle',de,Hazard,#b71c1c,#d32f2f,3,0.17426884852217303
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.1615006426302169
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.1417494070237507
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,3,0.1378214088112218
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.127100338528125
