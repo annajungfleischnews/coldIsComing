@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1169262504573376
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,2,0.1065624941571753
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.1058219590223363
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.103651923682257
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.08945427012991844
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.0857322511739973
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0690779387246667
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0609362842287532
@@ -21,4 +21,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0278995963057905
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0126355772407363
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0085989049261037
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.007999967867044164
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0079999678670441
