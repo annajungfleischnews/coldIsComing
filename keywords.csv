@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1169262504573376
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1083557528890198
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,2,0.1065624941571753
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.1058219590223363
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.09054872516898586
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.0894542701299184
-'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.08743776817596083
+'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0874377681759608
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.0857322511739973
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0690779387246667
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0609362842287532
