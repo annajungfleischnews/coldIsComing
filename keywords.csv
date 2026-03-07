@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,3,0.1316985724895385
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.1265829617310449
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,3,0.1213793900881864
-'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1169262504573376
+'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.11746243288873695
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.1138352825865702
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.1083557528890198
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,2,0.093728435033599
@@ -21,4 +21,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0201574583309336
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0085989049261037
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0079999678670441
-'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.007759823872967115
+'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0077598238729671
