@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.0857322511739973
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.0763361596104306
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0744721179495666
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.06623153493459222
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0662315349345922
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0609362842287532
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0588662629159666
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0528584148686345
-'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0449071388609192
+'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.038321083031781326
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0145637636440994
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0077598238729671
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0067999726869874
