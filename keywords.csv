@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.1138352825865702
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.1119440866161077
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,2,0.1031728865749584
-'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.10194777432126811
+'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.1019477743212681
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,2,0.093728435033599
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0922524049556668
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.0857322511739973
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0588662629159666
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0528584148686345
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0383210830317813
-'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0145637636440994
+'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.01237919909748449
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0077598238729671
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0062127088091098
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0057799767839392
