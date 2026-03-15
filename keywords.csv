@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.2117096971616934
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.1848956634945953
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.1514127881185135
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.15410699035528194
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.1361159047253084
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1174624328887369
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.1119440866161077
@@ -21,4 +21,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0105223192328617
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0077598238729671
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0052808024877433
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.00491298026634832
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0049129802663483
