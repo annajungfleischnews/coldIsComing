@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.1907561826067696
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.1849049375874394
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,3,0.1350254843044184
-'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.1156985190165121
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.1119440866161077
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.1005931429554263
+'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.09834374116403528
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,2,0.093728435033599
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0927752536971161
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0924075380804692
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0662315349345922
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0588662629159666
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0459691596052741
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.04013292674258841
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0401329267425884
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0383210830317813
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0105223192328617
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0056064727482187
