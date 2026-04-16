@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.2102056457104278
-'Glatteis',de,Impacts,#1a237e,#b3e5fc,3,0.1771195719493234
+'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.15055199615692488
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.1171948590801377
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.1068056630964192
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0908812177530141
@@ -21,4 +21,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0105223192328617
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0040506765605879
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0027566119036175
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.002564606405160435
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0025646064051604
