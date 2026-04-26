@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.1553697855499357
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.1367201318011832
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.135986095668866
-'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.1188148563371628
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.10633739499024279
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.1063373949902427
+'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.10249277788658838
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.101565825218117
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0953911579898713
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0890592356425486
