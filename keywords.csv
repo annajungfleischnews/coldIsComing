@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.1273312484613932
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,2,0.1216560804763548
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.12128174119218423
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.1151247323803996
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.1024927778865883
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.101565825218117
