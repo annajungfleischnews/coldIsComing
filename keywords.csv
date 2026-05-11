@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.1205903518842415
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.101565825218117
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.0888152382777958
-'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.07717134402306
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0710533529910154
+'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.06829591241960101
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.06773104155916
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0665480770483826
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0662992435765526
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0278369974904619
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0207099953983953
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0109248123151996
-'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.005492716404048935
+'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0054927164040489
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0047405848157302
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0018529281277283
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0004613003775444
