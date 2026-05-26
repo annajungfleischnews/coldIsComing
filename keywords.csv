@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.1634006450763906
-'Frost',de,Impacts,#1a237e,#3f51b5,3,0.09366670231452655
+'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0936667023145265
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0685883146202356
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,2,0.0654169477231616
-'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.062498962298077
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.060395350042363
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0585092190100374
+'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.058074627953365446
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0566543870400697
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0565658654911252
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0563997925380718
