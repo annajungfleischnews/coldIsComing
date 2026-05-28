@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.0580746279533654
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0566543870400697
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0563997925380718
-'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0556047205646873
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.055298246064731
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0544998311642002
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0538061052185618
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0515866224758825
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.04808098566745642
+'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.050264312479984204
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0480809856674564
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0469270230587598
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0447120206979881
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0307285571562777
