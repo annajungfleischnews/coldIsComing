@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.1634006450763906
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.157940953314932
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0936667023145265
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0685883146202356
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.060395350042363
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0307285571562777
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0238114628668926
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0127185259240395
-'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0045422903993411696
+'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0045422903993411
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0020715753312523
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0006988309458604
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0002046814281745
