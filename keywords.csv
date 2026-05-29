@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.055298246064731
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0544998311642002
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0538061052185618
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.052283091158531796
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0522830911585317
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0515866224758825
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0502643124799842
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0480809856674564
@@ -21,4 +21,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0045422903993411
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0020715753312523
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0006988309458604
-'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.0001739792139483
+'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.00014788233185605498
