@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.157940953314932
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.1342502153176922
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0936667023145265
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0685883146202356
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.0580746279533654
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0469270230587598
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0447120206979881
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0307285571562777
-'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.02023974343685871
+'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0202397434368587
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0127185259240395
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0043109918394399
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0020715753312523
