@@ -19,6 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0202397434368587
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0108107470354335
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0041143880635239
-'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0017608390315644548
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0006988309458604
+'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0017608390315644
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.00059400630398134
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.000147882331856
