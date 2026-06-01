@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.1342502153176922
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0936667023145265
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0685883146202356
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.05980021742720026
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0566543870400697
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0563997925380718
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0544998311642002
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0480536141550213
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0469270230587598
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0447120206979881
-'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.04279241769630642
+'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.0427924176963064
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0307285571562777
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0202397434368587
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0108107470354335
