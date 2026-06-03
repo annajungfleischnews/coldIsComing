@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,2,0.1370838076752108
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0936667023145265
-'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0515866224758825
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0513360475360085
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0502643124799842
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0491751414895701
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0466908524847519
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.045980934591152
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0457351894357775
+'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.045198764104500126
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0447120206979881
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.0427924176963064
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0307285571562777
