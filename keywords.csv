@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,2,0.0427924176963064
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0404880295999458
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0307285571562777
-'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.017203781921329896
-'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0108107470354335
+'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0172037819213298
+'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.009189134980118476
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0039472748539953
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0017608390315644
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0005049053583841
