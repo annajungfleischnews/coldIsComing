@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.083222246179363
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0502643124799842
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0479638235531374
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0466908524847519
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0447120206979881
-'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.042045692031768105
+'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0420456920317681
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.041937449612039115
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0414878501364503
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0413039056087568
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0408688378173379
