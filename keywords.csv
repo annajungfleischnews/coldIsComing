@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0355647026159827
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0348648701599539
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0330436743673491
-'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.028908619319009454
+'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0289086193190094
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.026119273582836
-'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0172037819213298
+'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.014623214633130328
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0078107647331006
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.003955243625896
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0014967131768297
