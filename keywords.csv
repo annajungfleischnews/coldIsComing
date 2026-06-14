@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0369389582270028
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0364240454921073
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0363740200418604
-'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.035564702615982755
+'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0355647026159827
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0348648701599539
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0330436743673491
-'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0307285571562777
+'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.026119273582836045
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0172037819213298
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0078107647331006
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.003955243625896
