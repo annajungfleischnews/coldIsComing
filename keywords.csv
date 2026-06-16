@@ -20,5 +20,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0078107647331006
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.003955243625896
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0014967131768297
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0004291695546264
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.00036479412143244
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.000147882331856
