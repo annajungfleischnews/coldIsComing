@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0762446460691351
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0502643124799842
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.0502059436565304
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.04759790767392181
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0475979076739218
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0370902943447661
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0364240454921073
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0363740200418604
@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0352583347674432
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0347385121447372
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0342762690655012
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0338851658446982
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0330436743673491
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0323044349542963
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.03075258596799347
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0299351696359608
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0289086193190094
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0222013825454106
