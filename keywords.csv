@@ -12,13 +12,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0342762690655012
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0330436743673491
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0323044349542963
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.03075258596799347
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0307525859679934
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0299351696359608
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0289086193190094
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0222013825454106
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0146232146331303
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0078107647331006
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.003955243625896
-'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0014967131768297
+'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.001272206200305245
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0003647941214324
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,0.000147882331856
