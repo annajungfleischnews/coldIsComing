@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0289086193190094
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0222013825454106
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0146232146331303
-'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0078107647331006
+'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.00663915002313551
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0041120320820116
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.0012722062003052
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0003647941214324
