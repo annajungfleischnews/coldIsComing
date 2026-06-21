@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.077941552340583
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0475979076739218
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0430246956079865
-'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.042675367108050845
+'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0426753671080508
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.04255843152283353
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0370902943447661
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0363740200418604
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0355647026159827
