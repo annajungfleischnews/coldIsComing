@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,2,0.14629212603731234
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,2,0.1462921260373123
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0696128703267702
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0517725391684819
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0308300572235852
@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.03059801789646
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.029584873705676
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0293105324802441
-'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0289086193190094
+'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.02877274642115799
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.0284393481916672
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0271264538680475
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0238740547304096
