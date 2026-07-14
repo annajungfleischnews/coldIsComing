@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0545333218600256
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0514083477901782
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0476823304301923
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.04188011586566345
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0314439506993301
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.0291240159629171
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0282399080727943
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0204635189901843
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.018871175163599
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0184050711131975
-'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.014889999723500599
+'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0148899997235005
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0146616538613126
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0111120088670705
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0105652725724365
