@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0514083477901782
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0513048835810217
-'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.03275613346294173
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0314439506993301
+'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.02919284844350044
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.0291240159629171
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0257472026498246
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0256640276082074
