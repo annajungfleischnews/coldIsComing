@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0463233784200996
+'Frost',de,Impacts,#1a237e,#3f51b5,3,0.04839519665708465
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0408275192332073
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0315929617197859
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0297231294510503
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0124624057821157
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0118902985645394
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0109091926771966
-'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.00925270691769465
+'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0092527069176946
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0081664278298658
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0077834244335853
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0047967858917153
