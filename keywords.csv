@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost',de,Impacts,#1a237e,#3f51b5,3,0.04839519665708465
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0408275192332073
+'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0483951966570846
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.035603481348226204
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0315929617197859
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0297231294510503
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0290827229071611
