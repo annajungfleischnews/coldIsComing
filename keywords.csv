@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0483951966570846
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0356034813482262
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0315929617197859
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.031163049145992265
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0297231294510503
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0290827229071611
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.0265512976958935
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0092527069176946
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0081664278298658
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0077834244335853
-'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.004227283007958005
+'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.004227283007958
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,0.000153816718565
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0001375819262008
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,5.5773749828954586e-05
