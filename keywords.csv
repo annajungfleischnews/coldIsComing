@@ -2,16 +2,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0483951966570846
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,2,0.0345628916003417
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0290827229071611
-'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0273886817740933
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.027304062461818
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0269148250333927
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.0254188880415094
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0251321726371932
+'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.023880439507979304
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0204635189901843
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0200124949144982
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0196139519690489
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0174055887560689
-'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.013634424055700235
+'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0136344240557002
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0124624057821157
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0118902985645394
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0109091926771966
