@@ -14,11 +14,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0136344240557002
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0105930449147983
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0101067537798584
-'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.009786916652883325
+'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0097869166528833
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0078648008800404
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0077834244335853
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0070914786553859
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.004227283007958
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0001375819262008
-'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,9.4462692288635e-05
+'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,8.029328844533976e-05
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,4.74076873546114e-05
