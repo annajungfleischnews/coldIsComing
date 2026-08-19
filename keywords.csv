@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.084745313730372
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0771171538376925
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0747337866708162
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0441267023347436
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0282910691822531
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,2,0.0254188880415094
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0238804395079793
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0234027769128257
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0212897950504238
-'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.020987311128663505
+'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0209873111286635
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0204635189901843
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0195608756773234
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0174055887560689
