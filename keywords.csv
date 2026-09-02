@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0076534749509417
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0067659257685475
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0066850807480343
-'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0064117749768409
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0047409679167387695
+'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.006200083730314766
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0047409679167387
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0033317397232495
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,9.940294168001e-05
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,3.0282574845098296e-05
