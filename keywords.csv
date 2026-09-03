@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperatursturz',de,Hazard,#b71c1c,#ef9a9a,1,0.0743285648748618
-'Frost',de,Impacts,#1a237e,#3f51b5,3,0.06546091948230674
-'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0431740838745202
+'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0654609194823067
+'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.03939824129334217
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0238804395079793
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0234027769128257
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0212897950504238
