@@ -19,6 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0055701011707674
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0047409679167387
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.002831978764762
-'Heiztage',de,Hazard,#b41a17,#d32f2f,1,9.940294168001e-05
+'Heiztage',de,Hazard,#b41a17,#d32f2f,1,8.44925004280085e-05
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,2.187916032558352e-05
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,2.103504273258015e-05
