@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0101067537798584
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0076534749509417
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0066850807480343
-'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.005751036903265375
+'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0057510369032653
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0050346159951522
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.002911546921867
-'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.002831978764762
+'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0024071819500477
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,4.410561330154811e-05
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,1.2918145618145784e-05
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,9.707899669500637e-06
