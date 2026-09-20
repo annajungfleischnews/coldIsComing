@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0234027769128257
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0209873111286635
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0194032818559918
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.019033350164188
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0184227926798825
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0182463407928602
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0174055887560689
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0170784376395598
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0167275867204081
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.015039140612836
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0115892604473451
