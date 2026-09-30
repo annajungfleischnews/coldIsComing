@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0234027769128257
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0209873111286635
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0182463407928602
-'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.017904259640954052
+'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.017904259640954
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0167275867204081
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.0156593737779001
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.015039140612836
@@ -20,5 +20,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0021035926510488
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0020461046575405
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,4.410561330154811e-05
-'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,1.2918145618145784e-05
+'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,1.0980423775423917e-05
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,7.01395751121421e-06
