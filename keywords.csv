@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Impacts,#1a237e,#3f51b5,3,0.0528334218770715
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0256487726737751
 'Glatteis',de,Impacts,#1a237e,#b3e5fc,1,0.0234027769128257
-'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0191718356843904
+'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.018696300331731842
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0171688156948109
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0167275867204081
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.015039140612836
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0039171966822284
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0037875250564974
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.0035318555382177
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.00166986069038269
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0016698606903826
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0014783106150729
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,3.7489771306315895e-05
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,5.73184983841988e-06
