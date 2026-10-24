@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0167275867204081
 'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.015039140612836
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0141430772228414
-'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0140065223028946
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.013760512711215
+'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.01370572395746041
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0134081211262597
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0098508713802433
-'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.00620681016505546
+'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0062068101650554
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0055296356520553
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0039171966822284
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0037875250564974
