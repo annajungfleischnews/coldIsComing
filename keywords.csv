@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Hazard,#b71c1c,#eb8383,1,0.0227166567568024
 'Kälteeinbruch',de,Hazard,#b71a3c,#ef9a9a,1,0.0186963003317318
 'Kälte Heizen',de,Adaptation,#1b5e20,#4caf50,1,0.0171688156948109
-'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.015568583712346885
+'Polarwirbel',de,Causes,#ffeb3b,#fff59d,1,0.0155685837123468
 'Kältewelle',de,Hazard,#b71c1c,#d32f2f,1,0.0141430772228414
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.013760512711215
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0137057239574604
@@ -21,4 +21,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0012565640228119
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,3.7489771306315895e-05
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,4.872072362656898e-06
-'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,2.6453106779687698e-06
+'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,2.2485140762734544e-06
