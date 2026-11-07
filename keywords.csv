@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kältebus',de,Adaptation,#1b5e20,#2cd133,1,0.013760512711215
 'Kaltluft',de,Causes,#fbdb2b,#ffd54f,1,0.0137057239574604
 'Kaltfront Winter',de,Causes,#fbdb2b,#f1f7ab,1,0.0134081211262597
-'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.010865450166357815
+'Kalte Luftmassen',de,Causes,#ffeb3b,#ffd54f,1,0.0108654501663578
 'Wärmestuben Kälte',de,Adaptation,#1b5e20,#014a07,1,0.0085232556732068
 'Autounfall Glätte',de,Impacts,#1a237e,#081e99,1,0.0062068101650554
 'Kältewelle Klimakrise',de,Causes,#ffeb3b,#d7e34f,1,0.0055296356520553
@@ -20,5 +20,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0014114167839811
 'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0012565640228119
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,3.7489771306315895e-05
-'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,3.5200722820196084e-06
+'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,2.992061439716667e-06
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,1.3808687070914352e-06
