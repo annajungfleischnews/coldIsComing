@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abkühlung Lufttemperatur',de,Causes,#ffeb3b,#edd895,1,0.0033694112980227
 'Jahrhundertwinter',de,Hazard,#b71c1c,#730606,1,0.0030852001029099
 'Kältewelle Klimawandel',de,Causes,#ffeb3b,#ede9c2,1,0.003002077207485
-'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.0013497192663839
-'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0009078675064815849
+'Frosttage',de,Hazard,#a31b1f,#d32f2f,1,0.001297276376426315
+'Eistage',de,Hazard,#a71c1c,#d32f2f,1,0.0009078675064815
 'Heiztage',de,Hazard,#b41a17,#d32f2f,1,0.0003046141097687
 'Verbesserung Energieeffizienz Kältewellen',de,Mitigation,#4a0144,#1b5e20,1,2.992061439716667e-06
 'Emissionen senken Kältewellen',de,Mitigation,#4a0144,#4a0a45,1,1.17373840102772e-06
